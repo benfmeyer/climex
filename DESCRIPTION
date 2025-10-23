@@ -1,5 +1,5 @@
 Package: climex
-Title: What the Package Does (One Line, Title Case)
+Title: Synthetically Extends Climate Data From NetCDF Input
 Version: 0.0.0.9000
 Authors@R: 
     person("Benjamin F.", "Meyer", , "meyer.ben93@gmail.com", role = c("aut", "cre"))
